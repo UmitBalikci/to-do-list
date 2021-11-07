@@ -1,0 +1,9 @@
+#header{
+    background-color: #f78501;
+}
+
+.checked {
+    background-color: rgb(129, 212, 4);
+    text-decoration: line-through;
+}
+
